@@ -4,7 +4,7 @@ title: Utilities
 permalink: /utils
 ---
 
-## Axi
+## [Axi](https://github.com/handicraftsman/axi/)
 
 Axi is an object streaming library for Crystal:
 
